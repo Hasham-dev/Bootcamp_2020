@@ -3,11 +3,11 @@
 ##Project 1 - Expense Tracker App
 [Github](https://github.com/Hasham-dev/expense_tracker_app:)
 [Surge Deployment](https://github.com/Hasham-dev/expense_tracker_app)
-
+ 
 <br />
 
-Project 2 - Covid-19 Tracker App
-[Github](https://github.com/Hasham-dev/expense_tracker_app:)
+Project 2 - Covid-19 Tracker App <br />
+[Github](https://github.com/Hasham-dev/expense_tracker_app:) <br/>
 [Surge Deployment](https://github.com/Hasham-dev/covid19_API)
 
 Project 3 - Shoe Store App
