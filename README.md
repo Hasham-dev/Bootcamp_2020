@@ -72,4 +72,7 @@
 [Github](https://github.com/Hasham-dev/JAMStack-Shopify-Stripe) <br/>
 [Netlify Deployment](https://hv-shopify.netlify.app/)
 
+## Project 4: Shopify in Gatsby<br />
+[Github](https://github.com/Hasham-dev/JAMstack-Shopify) <br/>
+[Netlify Deployment]()
 
