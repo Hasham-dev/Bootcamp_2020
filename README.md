@@ -65,3 +65,11 @@
 ## Project 12E: Virtual Lolly using Gatsby, Netlify, FaunaDB, Formik, and Storybook 6<br />
 [Github](https://github.com/Hasham-dev/Virtual_Lolly_Z) <br/>
 [Netlify Deployment](https://hv-virtul-lolly.netlify.app/)
+
+# Ecommerce Websites and Apps using JAMstack
+
+## Project 3: Shopping Cart in Gatsby<br />
+[Github](https://github.com/Hasham-dev/JAMStack-Shopify-Stripe) <br/>
+[Netlify Deployment](https://hv-shopify.netlify.app/)
+
+
