@@ -76,3 +76,8 @@
 [Github](https://github.com/Hasham-dev/JAMstack-Shopify) <br/>
 [Netlify Deployment]()
 
+# Full Stack Serverless with Cloud Development Kit
+
+## Project 13A: Building a Serverless JAMStack Todo app with AWS CDK, AWS CloudFront, Gatsby, GraphQL/AWS AppSync, and DynamoDB<br />
+[Github](https://github.com/Hasham-dev/Todo-AWS-CDK) <br/>
+[S3 Deployment](http://dvjfl168g2a9n.cloudfront.net/)
